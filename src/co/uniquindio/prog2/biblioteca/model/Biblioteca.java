@@ -15,12 +15,20 @@ public class Biblioteca {
 	 * 
 	 */
 	private String direccion;
-	
+	/**
+	 * 
+	 * 
+	 * @param nombre
+	 * @param direccion
+	 */
 	public Biblioteca(String nombre, String direccion){
 		this.nombre = nombre;
 		this.direccion= direccion;
 		
-		
+		/*
+		 * 
+		 * 
+		 */
 	} 
 
 
